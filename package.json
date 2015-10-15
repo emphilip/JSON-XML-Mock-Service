@@ -1,0 +1,28 @@
+{
+  "name": "rbcc-mock-service",
+  "version": "1.0.0",
+  "description": "Mock Web Service ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCapitalMarketsLtd/RBCC-Mock-Service.git"
+  },
+  "author": "edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCapitalMarketsLtd/RBCC-Mock-Service/issues"
+  },
+  "homepage": "https://github.com/TheCapitalMarketsLtd/RBCC-Mock-Service#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "express-xml-bodyparser": "^0.2.2",
+    "fs": "0.0.2",
+    "glob": "^5.0.14",
+    "path": "^0.12.7",
+    "ssl-root-cas": "^1.1.10"
+  }
+}
